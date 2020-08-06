@@ -11,7 +11,9 @@ While all Texans feel the environmental impacts of pollution and a changing clim
 ## What is the problem?
 The disproportionate, environmental burden low-income communities and communities of color face is known as environmental racism. Concrete evidence (data/mapping) is needed to justify anecdotes and experiences of environmental racism in Texas. This mapping effort will give TFN the leverage they need to organize support and push Texas legislators and officials to act.
 
-## What evidence supports that this is a problem?
+## Methodology
+### Hypotheses
+
 The following variables will be explored to establish relationships and trends that support the existence of environmental racism:
 | Variable       | Type  | Justification | Source  |
 | :--------------| :------------:| :-------| -------:|
@@ -23,9 +25,8 @@ The following variables will be explored to establish relationships and trends t
 
 *hazardous sites include refineries, chemical plants, energy plants, wastewater/sewage treatment facilities, landfills, and hazardous waste sites
 
-## What constraints need to be acknowledged?
+### What constraints need to be acknowledged?
 
-## Methodology
 
 ## Sources
 1. Loustaunau, M. G., & Chakraborty, J. (2019). Vehicular Air Pollution in Houston, Texas: An Intra-Categorical Analysis of Environmental Injustice. International journal of environmental research and public health, 16(16), 2968. https://doi.org/10.3390/ijerph16162968
