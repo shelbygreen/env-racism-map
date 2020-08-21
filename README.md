@@ -11,14 +11,14 @@ While all Texans feel the environmental impacts of pollution and a changing clim
 ## What is the problem?
 Communities of color and low-wealth are disproportionately exposed to environmental pollutants and hazards. The EPA pointed out that minorities and those with lower incomes were exposed more often to several air pollutants, hazardous waste facilities, contaminated fish, and agricultural pesticides at the workplace and black children had significantly higher blood lead levels compared to white children. The environmental disparities are caused by the combination of the location of polluting activities and residencies. Industries locate where land prices are low and labor forces reside. Therefore, people with a lower socio-economic status often live nearby these industries.
 
-### What constraints need to be acknowledged?
+## What constraints need to be acknowledged?
 
 
 ## Cumulative Impact Assessment 
 CIA is a methodology to identify populations bearing a disproportionate health risk burden. A CIA will estimate differential health risks from environmental exposures within populations, examine the extent and sources of environmental inequality, and identify high-risk areas.
 
 ### 1. Identify the indicators and their data sources
-## Polluation Burden Indicators 
+#### Polluation Burden Indicators 
 |   Component               |   Indicator                                      |   Description                                                                                                     |   Data Source                                                                                                |   Unit of Analysis Available  |
 |---------------------------|--------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|-------------------------------|
 |   Environmental Exposure  |   Ozone concentration                            |   Ozone summer seasonal avg. of daily maximum 8-hour concentration in air in parts per billion                    |   EPA, Office of Air and Radiation (OAR) fusion of model and monitor data; CDC’s Daily PM2.5 Concentrations  |   County; Census tract        |
@@ -31,7 +31,7 @@ CIA is a methodology to identify populations bearing a disproportionate health r
 |   Environmental Effects   |   Proximity to Superfund sites                   |   Count of proposed or listed superfund sites within 5 km, each divided by distance in kilometers                 |   EPA, CERCLIS database                                                                                      |   County; Census tract        |
 |   Environmental Effects   |   Proximity to Hazardous Waste Facilities        |   Count of hazardous waste facilities within 5km, each divided by distance in kilometers                          |   EPA, RCRAInfo Database                                                                                     |   County; Census tract        |
 |   Environmental Effects   |   Wastewater Discharge                           |   RSEI modeled Toxic Concentrations at stream segments within 500 meters, divided by distance in kilometers (km)  |   EPA, RSEI modeled toxic concentrations to stream reach segments                                            |   County; Census tract        |
-## Population Indicators
+#### Population Indicators
 |   Component              |   Indicator                          |   Description                                                                   |   Data Source                                |   Unit of Analysis Available  |
 |--------------------------|--------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------|-------------------------------|
 |   Sensitive Populations  |   Cardiovascular disease             |   Mortality rate from cardiovascular diseases per 100,00 population             |   Texas Department of State Health Services  |   County                      |
@@ -47,7 +47,7 @@ CIA is a methodology to identify populations bearing a disproportionate health r
 Correlation analysis is a statistical technique for investigating the relationship between two continuous quantitative variables, and indicates the probability of one condition occurring, given that the other condition is present. A Pearson’s Correlation Coefficient (r) measures the strength and direction of the relationship that exists between these two sets of variables, and can range in a continuum between the values of -1 and +1. Spearman rank correlation is a non-parametric test that is used to measure the degree of association between two variables.
 
 ### 3. Cumulative Score Calculation
-Score = Pollution Burden Score x Population Characteristics
+#### Score = Pollution Burden Score x Population Characteristics
 
 #### Calculating the Pollution Burden Score
 1. Raw values for each environmental exposure and effects indicator are assigned a percentile rank based on their relative value to the values for that indicator. Action performed on all counties/census tracts in Texas. Counties/census tracts that have no value for an indicator are excluded from the percentile ranking and assigned a 0 percentile score to mitigate against underestimating.
